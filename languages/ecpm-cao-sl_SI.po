@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CP Author Online\n"
+"POT-Creation-Date: 2017-09-06 13:31+0200\n"
+"PO-Revision-Date: 2017-09-06 13:33+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ecpm-cao.php\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: sl_SI\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ecpm-cao.php:170
+msgid "Unknown author status"
+msgstr ""
+
+#: ecpm-cao.php:182
+msgid "is online"
+msgstr "je prijavljen"
+
+#: ecpm-cao.php:196
+msgid "Last Login:"
+msgstr "Zadnja prijava:"
+
+#: ecpm-cao.php:289
+msgid "Hide online status"
+msgstr "Skrij online status"
+
+#: ecpm-cao.php:306
+msgid "Select this to hide your online status"
+msgstr "Odkljukaj, če želiš skriti svoj online status"
+
+#: ecpm-cao.php:407
+msgid "Settings saved."
+msgstr ""
+
+#: ecpm-cao.php:411
+msgid "You should disable AppThemes setting - View Counter."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: ecpm-cao.php:420
+msgid "CP Author Online"
+msgstr ""
+
+#: ecpm-cao.php:427
+msgid "Minutes threshold"
+msgstr ""
+
+#: ecpm-cao.php:433
+msgid ""
+"Specify how long the user will be shown as active since the last activity."
+msgstr ""
+
+#: ecpm-cao.php:439
+msgid "Animation type"
+msgstr ""
+
+#: ecpm-cao.php:443
+msgid "Fade"
+msgstr ""
+
+#: ecpm-cao.php:444
+msgid "Expand"
+msgstr ""
+
+#: ecpm-cao.php:445
+msgid "Swing"
+msgstr ""
+
+#: ecpm-cao.php:449
+msgid "Select the animation type"
+msgstr ""
+
+#: ecpm-cao.php:455
+msgid "Author icon type"
+msgstr ""
+
+#: ecpm-cao.php:465
+msgid "Type of icon to show"
+msgstr ""
+
+#: ecpm-cao.php:471
+msgid "Icon horizontal position"
+msgstr ""
+
+#: ecpm-cao.php:474 ecpm-cao.php:522
+msgid "Left"
+msgstr ""
+
+#: ecpm-cao.php:476 ecpm-cao.php:520
+msgid "Right"
+msgstr ""
+
+#: ecpm-cao.php:479 ecpm-cao.php:496
+msgid "Where to show the icon"
+msgstr ""
+
+#: ecpm-cao.php:485
+msgid "Icon vertical position"
+msgstr ""
+
+#: ecpm-cao.php:489
+msgid "Before Post Title"
+msgstr ""
+
+#: ecpm-cao.php:490
+msgid "After Post Title"
+msgstr ""
+
+#: ecpm-cao.php:491
+msgid "Before Post Content"
+msgstr ""
+
+#: ecpm-cao.php:492
+msgid "After Post Content"
+msgstr ""
+
+#: ecpm-cao.php:502
+msgid "Replace App stats"
+msgstr ""
+
+#: ecpm-cao.php:508
+msgid ""
+"Enable this if you want the icon to appear on the same line as ad stats."
+msgstr ""
+
+#: ecpm-cao.php:514
+msgid "Icon margin"
+msgstr ""
+
+#: ecpm-cao.php:519
+msgid "Top"
+msgstr ""
+
+#: ecpm-cao.php:521
+msgid "Bottom"
+msgstr ""
+
+#: ecpm-cao.php:536
+msgid "Margin in pixels around the icon"
+msgstr ""
+
+#: ecpm-cao.php:542
+msgid "Author online color"
+msgstr ""
+
+#: ecpm-cao.php:567
+msgid "Color to show when author is online"
+msgstr ""
+
+#: ecpm-cao.php:573
+msgid "Pulse online image"
+msgstr ""
+
+#: ecpm-cao.php:579
+msgid "Enable this if you want the online icon to blink."
+msgstr ""
+
+#: ecpm-cao.php:585
+msgid "Author offline color"
+msgstr ""
+
+#: ecpm-cao.php:610
+msgid "Color to show when author is offline"
+msgstr ""
+
+#: ecpm-cao.php:616
+msgid "Author hidden color"
+msgstr ""
+
+#: ecpm-cao.php:641
+msgid "Color to show when author is hiding his/her online status"
+msgstr ""
+
+#: ecpm-cao.php:647
+msgid "Opacity"
+msgstr ""
+
+#: ecpm-cao.php:653
+msgid "Transparency for the shown data and icons"
+msgstr ""
+
+#: ecpm-cao.php:659
+msgid "Icon size"
+msgstr ""
+
+#: ecpm-cao.php:671
+msgid "Specify the size of icons in pixels (max: 32px)"
+msgstr ""
+
+#: ecpm-cao.php:677
+msgid "Font size"
+msgstr ""
+
+#: ecpm-cao.php:683
+msgid "Specify the size of text on popup in pixels"
+msgstr ""
+
+#: ecpm-cao.php:689
+msgid "Online text"
+msgstr ""
+
+#: ecpm-cao.php:693
+msgid "Use [user] for username."
+msgstr ""
+
+#: ecpm-cao.php:696
+msgid ""
+"Text to display when user is online. If empty, default value will be used."
+msgstr ""
+
+#: ecpm-cao.php:702
+msgid "Hidden text"
+msgstr ""
+
+#: ecpm-cao.php:708
+msgid ""
+"Text to display when user is hiding his/her online status. If empty, default "
+"value will be used."
+msgstr ""
+
+#: ecpm-cao.php:714
+msgid "Exclude label"
+msgstr ""
+
+#: ecpm-cao.php:720
+msgid "Label to display on user account settings"
+msgstr ""
+
+#: ecpm-cao.php:726
+msgid "Exclude text"
+msgstr ""
+
+#: ecpm-cao.php:732
+msgid "Text to display on user account settings"
+msgstr ""
+
+#: ecpm-cao.php:739
+msgid "Save settings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.easycpmods.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"CP Author Online is a lightweight plugin that will show you if the ad author "
+"is online or not. There is also an animated popup when you hover over image. "
+"No JavaScript, all CSS. Classipress theme is required for this plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "EasyCPMods"
+msgstr ""

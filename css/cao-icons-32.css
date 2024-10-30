@@ -1,0 +1,55 @@
+.cao-sprite {
+    background-image: url(../images/cao-icons-32.png);
+    background-repeat: no-repeat;
+    display: block;
+    width: 32px;
+    height: 32px;
+}
+
+.cao-sprite-black-32 {
+    background-position: -5px -5px;
+}
+
+.cao-sprite-crimson-32 {
+    background-position: -47px -5px;
+}
+
+.cao-sprite-darkgreen-32 {
+    background-position: -89px -5px;
+}
+
+.cao-sprite-darkred-32 {
+    background-position: -5px -47px;
+}
+
+.cao-sprite-dimgrey-32 {
+    background-position: -47px -47px;
+}
+
+.cao-sprite-green-32 {
+    background-position: -89px -47px;
+}
+
+.cao-sprite-lightblue-32 {
+    background-position: -5px -89px;
+}
+
+.cao-sprite-lightcoral-32 {
+    background-position: -47px -89px;
+}
+
+.cao-sprite-lightgrey-32 {
+    background-position: -89px -89px;
+}
+
+.cao-sprite-lightseagreen-32 {
+    background-position: -131px -5px;
+}
+
+.cao-sprite-midnightblue-32 {
+    background-position: -131px -47px;
+}
+
+.cao-sprite-royalblue-32 {
+    background-position: -131px -89px;
+}
